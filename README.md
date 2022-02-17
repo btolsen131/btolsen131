@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @btolsen131
+- 👋 Hi, I’m Brian Olsen
 - 👀 I’m interested in data analytics using Python, SQL, and R
-- 🌱 I’m currently learning Pyhon
+- 🌱 I’m currently learning HTML, CSS, and Javascript
 - 📫 How to reach me: https://www.linkedin.com/in/briantolsen/
 
 <!---
